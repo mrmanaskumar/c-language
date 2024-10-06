@@ -7,9 +7,3 @@ void main (void)
     p=x+y;
     printf("sum of x and y=%d",p);
 }
-git init
-git add .
-git commit -m "my first code in c"
-git branch -M main
-git remote add origin https://github.com/mrmanaskumar/c-language.git
-git push -u origin main
